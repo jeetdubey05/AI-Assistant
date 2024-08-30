@@ -1,3 +1,4 @@
+# INSTALL ALL THE PAKAGES
 import os
 import subprocess
 import speech_recognition as sr
